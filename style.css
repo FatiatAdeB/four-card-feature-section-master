@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&family=Outfit:wght@300;400;600&family=Poppins:ital,wght@0,200;0,400;0,600;1,200;1,400;1,600&family=Roboto:wght@900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ body {
+ 
+font-family: 'Poppins', sans-serif;
+  
+ background-color: hsl(0, 0%, 98%); 
+
+ }
+ .reliable {
+  font-family: 'Poppins', sans-serif;
+
+ }
+ .all {
+  font-family: 'Poppins', sans-serif;
+
+ }
+ h1 {
+  color:  hsl(234, 12%, 34%);
+  font-family: 'Poppins', sans-serif;
+
+ }
+ .supervisor {
+  background-color: white;
+  width: 400px;
+  margin: 30px;
+  height: 300px;
+box-shadow: hsl(229, 6%, 66%) 1px 5px 10px 1px;
+border-radius: 10px 10px 10px 10px;
+border-top: hsl(180, 62%, 55%) solid 5px;
+padding: 30px; 
+ }
+.builder {
+  background-color: white;
+  width: 400px;
+  margin: 30px;
+  height: 300px; 
+  padding: 30px; 
+ box-shadow:  hsl(229, 6%, 66%) 1px 5px 10px 1px;
+ border-radius: 10px 10px 10px 10px;
+ border-top: hsl(0, 78%, 62%) solid 5px;
+
+} 
+.karma {
+  background-color: white;
+  width: 400px;
+  margin: 30px;
+  height: 300px;
+  box-shadow: hsl(229, 6%, 66%) 1px 5px 10px 1px;
+  border-radius: 10px 10px 10px 10px;
+  border-top: hsl(34, 97%, 64%) solid 5px ;
+  padding: 30px; 
+
+}
+.calc {
+  background-color: white;
+  width: 400px;
+  margin: 30px;
+  height: 300px;
+  box-shadow: hsl(229, 6%, 66%) 1px 5px 10px 1px;
+  border-radius: 10px 10px 10px 10px;
+  border-top: hsl(212, 86%, 64%) solid 5px;
+  padding: 30px; 
+
+}
+.bandk {
+  display: inline;
+}
+section {
+  display: flex;
+place-items: center;
+}
+header {
+  text-align: center;
+}
+
+ h2 {
+  font-weight: lighter;
+ }
+ p {
+  color: hsl(229, 6%, 66%);
+}
+ img {
+  float: right;
+  padding-top: 60px;
+ }
+ @media  (max-width: 1033px) {
+   section {
+    flex-direction: column;    
+  }
+ }
+
+  
+ 
