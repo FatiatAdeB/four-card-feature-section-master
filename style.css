@@ -75,6 +75,7 @@ padding: 30px;
 section {
   display: flex;
 place-items: center;
+justify-content: center;
 }
 header {
   text-align: center;
