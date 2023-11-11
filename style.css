@@ -28,7 +28,7 @@ font-family: 'Poppins', sans-serif;
  }
  .supervisor {
   background-color: white;
-  width: 390px;
+  width: 360px;
   margin: 30px;
   height: 300px;
 box-shadow: hsl(229, 6%, 66%) 1px 5px 10px 1px;
@@ -38,7 +38,7 @@ padding: 30px;
  }
 .builder {
   background-color: white;
-  width: 390px;
+  width: 360px;
   margin: 30px;
   height: 300px; 
   padding: 30px; 
@@ -49,7 +49,7 @@ padding: 30px;
 } 
 .karma {
   background-color: white;
-  width: 390px;
+  width: 360px;
   margin: 30px;
   height: 300px;
   box-shadow: hsl(229, 6%, 66%) 1px 5px 10px 1px;
@@ -60,7 +60,7 @@ padding: 30px;
 }
 .calc {
   background-color: white;
-  width: 390px;
+  width: 360px;
   margin: 30px;
   height: 300px;
   box-shadow: hsl(229, 6%, 66%) 1px 5px 10px 1px;
